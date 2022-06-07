@@ -1,0 +1,125 @@
+body {
+    background-color: #999999;
+  }
+  #div1 {
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    background: #fff;
+    width: 600px;
+    height: 570px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  #div2 {
+    align-items: center;
+  }
+  #i1 {
+    color: #1d9bf0;
+    padding: 20px;
+    font-size: 30px;
+    margin-left: 270px;
+  }
+  h1 {
+    margin-top: 4px;
+    margin-left: 170px;
+  }
+  #btn1 {
+    margin-left: 150px;
+    width: 300px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #dddfe2;
+    outline: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: rgb(153, 153, 153);
+    background: rgb(255, 255, 255);
+  }
+  #btn1:hover {
+    cursor: pointer;
+  }
+  #btn2 {
+    margin-left: 150px;
+    width: 300px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #dddfe2;
+    outline: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    background: white;
+  }
+  #btn2:hover {
+    cursor: pointer;
+  }
+  #i2 {
+    font-size: 20px;
+  }
+  #hr1 {
+    float: left;
+    width: 115px;
+    margin-left: 170px;
+    border: 1px solid #dddfe2;
+  }
+  #lable1 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #999;
+  }
+  #hr2 {
+    float: left;
+    width: 115px;
+    border: 1px solid #dddfe2;
+  }
+  #input1 {
+    margin-left: 150px;
+    width: 260px;
+    padding: 18px;
+    border: 1px solid #dddfe2;
+    border-radius: 7px;
+    font-size: 15px;
+  }
+  #btn3 {
+    margin-left: 150px;
+    width: 300px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #dddfe2;
+    outline: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    background: #272c30;
+    color: white;
+  }
+  #btn4 {
+    margin-left: 150px;
+    width: 300px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #dddfe2;
+    outline: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    background: white;
+  }
+  #div3 {
+    margin-left: 190px;
+    margin-top: 50px;
+  }
+  #label2 {
+    font-size: 15px;
+    color: #999;
+  }
+  #a3 {
+    text-decoration: none;
+    color: #1d9bf0;
+  }
+  #a3:hover {
+    cursor: pointer;
+  }
